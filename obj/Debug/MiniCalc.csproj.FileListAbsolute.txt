@@ -1,0 +1,10 @@
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\bin\Debug\MiniCalc.exe.config
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\bin\Debug\MiniCalc.exe
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\bin\Debug\MiniCalc.pdb
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\obj\Debug\MiniCalc.csprojAssemblyReference.cache
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\obj\Debug\MiniCalc.frmTelaPrincipal.resources
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\obj\Debug\MiniCalc.Properties.Resources.resources
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\obj\Debug\MiniCalc.csproj.GenerateResource.cache
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\obj\Debug\MiniCalc.csproj.CoreCompileInputs.cache
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\obj\Debug\MiniCalc.exe
+C:\Users\Edjanilson\Desktop\C# projects\MiniCalc\MiniCalc\obj\Debug\MiniCalc.pdb
