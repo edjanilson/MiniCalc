@@ -1,4 +1,4 @@
-Sistema MiniCalc
+#Sistema MiniCalc
 
 Pequeno sistema que solicita dois números ao usuário e em seguida permite escolher uma das quatro operações matemáticas. 
 O objetivo desta aplicação é demonstrar via software como as quatro operações matemáticas são simples.
