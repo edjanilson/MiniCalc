@@ -1,15 +1,14 @@
-Sistema MiniCalc
+MiniCalc System
 
-Pequeno sistema que solicita dois números ao usuário e em seguida permite escolher uma das quatro operações matemáticas. 
-O objetivo desta aplicação é demonstrar via software como as quatro operações matemáticas são simples.
+Small system that asks the user for two numbers and then allows them to choose one of four mathematical operations. The purpose of this application is to demonstrate via software how the four mathematical operations are simple.
 
-Detalhes da implementação
+Implementation Details
 
-Tecnologias utilizadas na implementação:
+Technologies used in implementation:
 
-Sistema feito na linguagem de programação C# usando o template do Windows forms (mesma tecnologia usada nos sistemas operacionais da Microsoft).
+System made in C# programming language using Windows forms template (same technology used in Microsoft operating systems).
 
-Pré-requisitos
+Prerequisites
 
-Instalação do .Net framework (a máquina virtual da plataforma .net)
+Installation of the .Net framework (the virtual machine of the .net platform)
 
